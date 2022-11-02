@@ -1,7 +1,7 @@
 
 👋 Hey
 
-My name is Endah Dwi Emerawati and I love the Web. I'm mainly a Php and Laravel developer at works with Stimulus and VueJS. I also do DevOps and Laravel stuff.
+My name is Endah Emera and I love the Web. I'm mainly a Php and Laravel developer at works with Stimulus and VueJS. I also do DevOps and Laravel stuff.
 
 📊 My Stats
 
